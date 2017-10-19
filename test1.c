@@ -8,6 +8,8 @@ int main()
 	printf("Podaj promien kola:\n");
 	scanf("%lf", &r);
 	
+	printf("%lf", r);
+	
 	pole = (r*r)*pi;
 	printf("Pole kola jest rowne %f", pole);
 	
