@@ -16,7 +16,6 @@ chrom	strand	txStart	txEnd	cdsStart	cdsEnd	exonCount	exonStarts	exonEnds	protein
  
 	-Ile to jest linii? 47305
 	wc -l genom.txt
-
 	
 5 - W jaki sposób są rozdzielone pola? Spacjami
 
