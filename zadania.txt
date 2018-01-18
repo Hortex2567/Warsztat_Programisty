@@ -1,5 +1,5 @@
 Rozpakuj katalog archiwum.tar.gz
-tar -xvvzf archiwum.tar.gz
+tar -xvzf archiwum.tar.gz
 
 Sprawdź sumę kontrolną pliku genom.txt
 md5sum -c genom.txt
